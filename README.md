@@ -30,7 +30,8 @@
 
   ## Usage
 
-  Update me when the app is written
+  After running npm i from the command line, run the command
+  npm run start, navigate to localhost:3000 and use the app.
 
   ## Tests
 
@@ -38,6 +39,5 @@
 
   ## Questions
 
-  Thank you for using my application.  Please submit questions to dallen7@socal.rr.com.  Also, visit me at 
-    [dirtydenny](https://github.com/dirtydenny/) to see my other programs.
+  Thank you for using my application.  Please submit questions to dallen7@socal.rr.com.  Also, visit me on Github at [dirtydenny](https://github.com/dirtydenny/) to see my other programs.
 
